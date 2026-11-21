@@ -31,7 +31,7 @@
 
   <groupId>com.ondewo</groupId>
   <artifactId>ondewo-s2t-client-java</artifactId>
-  <version>7.6.0</version>
+  <version>7.6.2</version>
   <packaging>jar</packaging>
 
   <name>ondewo-s2t-client-java</name>

@@ -42,7 +42,7 @@ export
 
 # MUST BE THE SAME AS THE API in Major and Minor Version Number
 # example: API 2.9.0 --> Client 2.9.X
-ONDEWO_S2T_VERSION=7.6.0
+ONDEWO_S2T_VERSION=7.6.2
 
 # Submodule pins. Both are checked out by `make checkout_defined_submodule_versions`, which
 # every `make build` runs first, so a build can never silently use whatever the submodule
